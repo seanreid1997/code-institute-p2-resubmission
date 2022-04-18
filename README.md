@@ -73,13 +73,12 @@
 #### As A Returning User:
 
 8. 
-9. 
-10. 
-11. 
 
 #### As A Site Owner:
-
-12. I want all links and functions to work accordingly.
+9. I want users to be able to track their progress.
+10. I want users to be rediredcted to 404 page when incorrect url is entered.
+11. I want all links and functions to work accordingly.
+12. I want users to be able to provide feedback.
 13. I want users to be able to login/register.
 14. I want the website to be responsive.
 15. I want users to be able to return to home without using browser back button.
