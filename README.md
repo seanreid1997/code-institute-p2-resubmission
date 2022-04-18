@@ -79,10 +79,10 @@
 
 #### As A Site Owner:
 
-12. 
-13. 
-14. 
-15. 
+12. I want all links and functions to work accordingly.
+13. I want users to be able to login/register.
+14. I want the website to be responsive.
+15. I want users to be able to return to home without using browser back button.
 
 ## Design
 
