@@ -1,9 +1,9 @@
-# Bletchley Park Wiki
+# 
 (Developer: Sean Reid)
 
 <img src="docs/responsive.jpg">
 
-<a href="https://seanreid1997.github.io/code-institute-p1" target="_blank">Launch Live Website</a>
+<a href="" target="_blank">Live Website</a>
 
 ## Table of Contents
 
