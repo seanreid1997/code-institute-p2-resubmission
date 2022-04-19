@@ -3,7 +3,7 @@
 
 <img src="docs/responsive.jpg">
 
-<a href="" target="_blank">Live Website</a>
+<a href="https://seanreid1997.github.io/code-institute-p2-resubmission/" target="_blank">Live Website</a>
 
 ## Table of Contents
 
