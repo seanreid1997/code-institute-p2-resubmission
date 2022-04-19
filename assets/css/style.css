@@ -8,6 +8,7 @@ body {
     background: url('assets/images/background.jpg') 0px / cover;
 }
 
+/*Styling for heading and navigation*/
 #nav {
     background-color: black;
     color: #fff;
