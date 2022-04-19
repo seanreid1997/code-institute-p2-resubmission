@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -101,4 +102,13 @@ body {
   footer ul li a {
     font-size: 50px;
     color: #fff;
+  }
+
+  #contact {
+      float: right;
+      margin-top: -55px;
+      margin-right: 13%;
+      font-size: 23px;
+      text-decoration: none;
+      color: #fff;
   }
