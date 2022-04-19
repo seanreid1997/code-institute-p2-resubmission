@@ -60,3 +60,24 @@ body {
 .hidden {
     display: none;
 }
+
+#content {
+    background-color: #fff;
+    height: 1000px;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+/*Styling for footer including link to contact page and return to top button*/
+
+#return-to-top {
+    color: rgb(107, 105, 105);
+    margin-left: 95%;
+    font-size: 60px;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 90%;
+  }
