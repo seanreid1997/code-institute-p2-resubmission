@@ -55,3 +55,8 @@ body {
     text-decoration:wavy;
     color: #fff;
 }
+
+/*Class to make targeted element invisible*/
+.hidden {
+    display: none;
+}
