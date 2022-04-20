@@ -72,6 +72,11 @@ body {
     box-shadow: 5px 5px 5px 5px #4b4b4b;
 }
 
+#question {
+    font-size: 40px;
+    text-align: center;
+}
+
 /*Styling for footer including link to contact page and return to top button*/
 
 #return-to-top {
