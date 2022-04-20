@@ -69,6 +69,7 @@ body {
     background-color: #fff;
     width: 70%;
     margin: 20% auto;
+    box-shadow: 5px 5px 5px 5px #4b4b4b;
 }
 
 /*Styling for footer including link to contact page and return to top button*/
