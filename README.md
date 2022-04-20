@@ -1,7 +1,7 @@
 # 
 (Developer: Sean Reid)
 
-<img src="docs/responsive.jpg">
+<img src="docs/p2mock.jpg">
 
 <a href="https://seanreid1997.github.io/code-institute-p2-resubmission/" target="_blank">Live Website</a>
 
