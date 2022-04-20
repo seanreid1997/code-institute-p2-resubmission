@@ -62,12 +62,13 @@ body {
     display: none;
 }
 
-#content {
+/*Styling for main game including questions and score counter*/
+
+.container {
+    height: 500px;
     background-color: #fff;
-    height: 1000px;
-    width: 50%;
-    margin: 0 auto;
-    margin-bottom: 50px;
+    width: 70%;
+    margin: 20% auto;
 }
 
 /*Styling for footer including link to contact page and return to top button*/
