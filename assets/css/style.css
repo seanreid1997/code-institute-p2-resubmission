@@ -84,10 +84,35 @@ body {
     padding-right: 0.5%;
 }
 
+#questions {
+    margin-bottom: 10%;
+    margin-top: 1%;
+}
+
 #question {
     padding-top: 5%;
     font-size: 40px;
     text-align: center;
+}
+
+.answers-container {
+    padding-top: 30%;
+}
+
+.answers p {
+    background-color: black;
+    color: #fff;
+    margin: 2%;
+    border: 1px;
+    border-radius: 4px;
+    padding: 2%;
+}
+
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(90, 90, 90, 0.6);
+    transition: transform 150ms;
+    transform: scale(1.01);
 }
 
 /*Styling for footer including link to contact page and return to top button*/
