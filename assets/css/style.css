@@ -190,8 +190,10 @@ footer ul li a {
     font-size: 100%;
     font-weight: bolder;
     border: 1px solid;
+    text-decoration: none;
 }
 
 #home-btn a {
     padding: 1%;
+    text-decoration: none;
 }
