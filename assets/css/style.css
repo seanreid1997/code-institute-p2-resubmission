@@ -183,7 +183,15 @@ footer ul li a {
 }
 
 #home-btn {
-    background-color: #fff;
-    color: blue;
+    background-color: rgb(14, 14, 14);
+    color: rgb(255, 255, 255);
     border-radius: 25px;
+    text-align: center;
+    font-size: 100%;
+    font-weight: bolder;
+    border: 1px solid;
+}
+
+#home-btn a {
+    padding: 1%;
 }
