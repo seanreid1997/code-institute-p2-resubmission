@@ -21,8 +21,10 @@ const progressBar = document.getElementById('progressBar');
 const score = document.getElementById('score');
 const MAX_QUESTIONS = 2;
 
+console.log(questions);
 let questionCounter;
 let userScore;
+let acceptingAnswer = false;
 
 /**
  * Function that starts the game by
@@ -31,22 +33,21 @@ let userScore;
 function startGame(){
     questionCounter = 0;
     userScore = 0;
-    availableQuestions = getNewQuestion(questions, MAX_QUESTIONS);
-    console.log(availableQuestions)
+    availableQuestions = getRandomQuestion(questions, MAX_QUESTIONS);
 }
 
+function getRandomQuestion(arr, n){
+    let len = arr.length;
+    if (n < len){
+        throw new RangeError(
+            "More elements than available"
+        );
+
+        const shuffled = [...arr].sort(() => 0.5 - Math.random());
+        return selected = shuffled.slice(0, n)
+    }
+
+};
 /**
  * Function that generates new random questions
  */
-function getNewQuestion(){
-    availableQuestions = Math.floor(Math.random() * questions.length)
-
-}
-
-/**
- * Function that increments the users score
- */
-function incrementScore(){
-}
-
-startGame();

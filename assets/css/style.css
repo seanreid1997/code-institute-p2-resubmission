@@ -115,6 +115,14 @@ body {
     transform: scale(1.01);
 }
 
+.correct {
+    background-color: green;
+}
+
+.incorrect {
+    background-color: red;
+}
+
 /*Styling for footer including link to contact page and return to top button*/
 
 #return-to-top {
@@ -157,3 +165,4 @@ body {
       text-decoration: none;
       color: #fff;
   }
+
