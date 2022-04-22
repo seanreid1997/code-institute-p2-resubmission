@@ -169,17 +169,20 @@ footer ul li a {
 #page404 h1{
     font-size: 1000%;
     color: red;
+    text-align: center;
 }
 
 #page404 h2{
-    font-size: 700%;
+    font-size: 500%;
+    text-align: center;
 }
 
 #page404 h3{
-    font-size: 500%;
+    font-size: 300%;
+    text-align: center;
 }
 
-.home-btn {
+#home-btn {
     background-color: #fff;
     color: blue;
     border-radius: 25px;
