@@ -42,8 +42,7 @@ body {
 #login-link {
     color: #fff;
     float: right;
-    margin-left: 70%;
-    padding: 1%;
+    padding: 0.45%;
     font-size:  40px;
     text-decoration: none;
 }
@@ -65,11 +64,12 @@ body {
 /*Styling for main game including questions and score counter*/
 
 .container {
-    height: 600px;
+    height: 100%;
     background-color: #fff;
     width: 70%;
     margin: 20% auto;
     box-shadow: 5px 5px 5px 5px #4b4b4b;
+    padding-bottom: 5%;
 }
 
 #score {
@@ -119,7 +119,7 @@ body {
 
 #return-to-top {
     color: rgb(107, 105, 105);
-    margin-left: 95%;
+    margin-left: 92%;
     font-size: 60px;
 }
 
