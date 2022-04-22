@@ -135,34 +135,52 @@ body {
     position: -webkit-sticky;
     position: sticky;
     top: 90%;
-  }
+}
 
-  footer {
+footer {
     width: 100%;
     background-color: black;
-  }
+}
 
-  footer ul {
+footer ul {
     margin: auto;
     display: flex;
-  }
+}
 
-  footer ul li {
+footer ul li {
     flex-direction: row;
     padding: 1% 2%;
-  }
+}
 
-  footer ul li a {
+footer ul li a {
     font-size: 50px;
     color: #fff;
-  }
+}
 
-  #contact {
-      float: right;
-      margin-top: -55px;
-      margin-right: 13%;
-      font-size: 23px;
-      text-decoration: none;
-      color: #fff;
-  }
+#contact {
+    float: right;
+    margin-top: -55px;
+    margin-right: 13%;
+    font-size: 23px;
+    text-decoration: none;
+    color: #fff;
+}
 
+#page404 h1{
+    font-size: 1000%;
+    color: red;
+}
+
+#page404 h2{
+    font-size: 700%;
+}
+
+#page404 h3{
+    font-size: 500%;
+}
+
+.home-btn {
+    background-color: #fff;
+    color: blue;
+    border-radius: 25px;
+}
