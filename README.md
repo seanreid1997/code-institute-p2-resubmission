@@ -66,15 +66,15 @@
 2. I want to be able view the website on various browsers.
 3. I want to be able to view the website on different screen sizes
 4. I want to be able to leave feedback/contact.
-5. I want 
-6. 
-7. 
+5. I want to be able share the website via social media.
+6. I want the website to be fully functional.
 
 #### As A Returning User:
 
-8. I would like the site to be updated with new features.
+7. I would like the site to be updated with new features.
 
 #### As A Site Owner:
+8. I want the website to be browser compatible.
 9. I want users to be able to track their progress.
 10. I want users to be rediredcted to 404 page when incorrect url is entered.
 11. I want all links and functions to work accordingly.
