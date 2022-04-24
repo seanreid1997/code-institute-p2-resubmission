@@ -129,6 +129,21 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ## Features
 
+### Home Page
+
+### Game Page
+
+### About Us Page
+
+### Contact Page
+
+### Footer
+
+### 404 Page
+
+<details><summary>404 page</summary>
+<img src="docs/features/feat404.jpg">
+</details>
 
 ## Testing
 
@@ -429,7 +444,7 @@ The site was deployed to GitHub Pages via the following steps:
  
  <ul>
  <li>Background image for this project was taken from </li>
- <li></li>
+ <li>Favicon used was from <a href="https://favicon.io/">favicon.io/</a></li>
  </ul>
 
  ## Acknowledgements
