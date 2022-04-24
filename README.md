@@ -131,13 +131,19 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### Home Page
 
+### Login Page
+
+<details><summary>Screenshots</summary>
+<img src="docs/features/featlogin.jpg">
+</details>
+
 ### Game Page
 
 ### About Us Page
 
 ### Contact Page
 
-<details><summary>Contact page</summary>
+<details><summary>Screenshots</summary>
 <img src="docs/features/featcontact.jpg">
 </details>
 
@@ -145,7 +151,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### 404 Page
 
-<details><summary>404 page</summary>
+<details><summary>Screenshots</summary>
 <img src="docs/features/feat404.jpg">
 </details>
 
@@ -171,7 +177,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>Login</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/loginhtmlvalid.jpg">
 </details>
 
 <details><summary>404 page</summary>
@@ -197,7 +203,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>Login</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/logincssvalid.jpg">
 </details>
 
 <details><summary>404 page</summary>
@@ -214,7 +220,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/.jpg">
 </details>
 
-### CSS
 <details><summary>About Us</summary>
 <img src="docs/.jpg">
 </details>
@@ -224,7 +229,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>Login</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/logincssvalid.jpg">
 </details>
 
 <details><summary>404 page</summary>
