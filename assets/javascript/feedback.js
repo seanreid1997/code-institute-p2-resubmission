@@ -6,7 +6,9 @@ function sendToEmail() {
         To : 'reid.sean14@yhoo.com',
         From : document.getElementById('email').value,
         Subject : "New Form submitted",
-        Body : "And this is the body"
+        Body : "Name" + document.getElementById('fullname').value
+        + "<br> Email:" + document.getElementsById('email')
+        + "<br> Phone Number:" + document.getElementsById('phone')
     }).then(
       message => alert(message)
     );

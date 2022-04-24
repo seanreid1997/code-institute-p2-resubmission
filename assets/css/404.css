@@ -1,0 +1,32 @@
+#page404 h1{
+    font-size: 2000%;
+    color: rgb(62, 62, 62);
+    text-align: center;
+}
+
+#page404 h2{
+    font-size: 500%;
+    text-align: center;
+}
+
+#page404 h3{
+    font-size: 300%;
+    text-align: center;
+}
+
+#home-btn {
+    background-color: rgb(14, 14, 14);
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    text-align: center;
+    font-size: 100%;
+    font-weight: bolder;
+    border: 1px solid;
+    text-decoration: none;
+}
+
+#home-btn a {
+    padding: 1%;
+    text-decoration: none;
+    text-align: center;
+}
