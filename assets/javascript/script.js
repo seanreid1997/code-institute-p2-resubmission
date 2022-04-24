@@ -36,18 +36,3 @@ function startGame(){
     availableQuestions = getRandomQuestion(questions, MAX_QUESTIONS);
 }
 
-function getRandomQuestion(arr, n){
-    let len = arr.length;
-    if (n < len){
-        throw new RangeError(
-            "More elements than available"
-        );
-
-        const shuffled = [...arr].sort(() => 0.5 - Math.random());
-        return selected = shuffled.slice(0, n)
-    }
-
-};
-/**
- * Function that generates new random questions
- */
