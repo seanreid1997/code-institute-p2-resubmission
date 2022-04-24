@@ -137,6 +137,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### Contact Page
 
+<details><summary>Contact page</summary>
+<img src="docs/features/featcontact.jpg">
+</details>
+
 ### Footer
 
 ### 404 Page
@@ -158,13 +162,12 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/.jpg">
 </details>
 
-### CSS
 <details><summary>About Us</summary>
 <img src="docs/.jpg">
 </details>
 
 <details><summary>Conatct</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/contacthtmlvalid.jpg">
 </details>
 
 <details><summary>Login</summary>
@@ -175,7 +178,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/.jpg">
 </details>
 
-### Css
+### CSS
 
 <details><summary>Home</summary>
 <img src="docs/.jpg">
@@ -185,13 +188,12 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/.jpg">
 </details>
 
-### CSS
 <details><summary>About Us</summary>
 <img src="docs/.jpg">
 </details>
 
 <details><summary>Conatct</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/contactcssvalid.jpg">
 </details>
 
 <details><summary>Login</summary>
@@ -239,23 +241,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/.jpg">
 </details>
 
-### CSS
-<details><summary>About Us</summary>
-<img src="docs/.jpg">
-</details>
-
-<details><summary>Conatct</summary>
-<img src="docs/.jpg">
-</details>
-
-<details><summary>Login</summary>
-<img src="docs/.jpg">
-</details>
-
-<details><summary>404 page</summary>
-<img src="docs/.jpg">
-</details>
-
 ### Performance
 
 <details><summary>Home</summary>
@@ -263,23 +248,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>Game Page</summary>
-<img src="docs/.jpg">
-</details>
-
-### CSS
-<details><summary>About Us</summary>
-<img src="docs/.jpg">
-</details>
-
-<details><summary>Conatct</summary>
-<img src="docs/.jpg">
-</details>
-
-<details><summary>Login</summary>
-<img src="docs/.jpg">
-</details>
-
-<details><summary>404 page</summary>
 <img src="docs/.jpg">
 </details>
 
