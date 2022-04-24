@@ -25,12 +25,12 @@ function forTabFun(){
     forgetBox.style.visibility="visible";
 }
 
-function register(){
+function register(event){
     event.preventDefault();
-    var email = document.getElementById("re").value;
-    var password = document.getElementById("rp").value;
+    var email = document.getElementById("email").value;
+    var password = document.getElementById("password").value;
 
-    if (email == ""){
+    if (email  == ""){
         alert("Email required.");
         return ;
     }
@@ -38,14 +38,13 @@ function register(){
         alert("Password required.");
         return ;
     }
-    else if (passwordRetype == ""){
-        alert("Please enter password.");
-        return ;
-    }
     else if(emailArray.indexOf(email) == -1){
         emailArray.push(email);
         passwordArray.push(password);
         alert(email + "  Thanks for registration. \nTry to login Now");
+        event.addEventListener('submit', function (){
+            window.location.href = "index.html"
+        });
 
         document.getElementById("re").value ="";
         document.getElementById("rp").value="";
@@ -55,7 +54,7 @@ function register(){
         return ;
     }
 }
-function login(){
+function login(event){
     event.preventDefault();
     var email = document.getElementById("se").value;
     var password = document.getElementById("sp").value;
@@ -78,13 +77,16 @@ function login(){
     }
     else {
         alert(email + " yor are login Now \n welcome to our website.");
+        event.addEventListener('submit', function (){
+            window.location.href = "index.html"
+        });
         document.getElementById("se").value ="";
         document.getElementById("sp").value="";
         return ;
     }
 
 }
-function forgot(){
+function forgotPassword(){
     var email = document.getElementById("fe").value;
 
     if(emailArray.indexOf(email) == -1){
