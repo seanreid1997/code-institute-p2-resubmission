@@ -35,13 +35,13 @@
 ### User Goals
 
 <ul>
-<li></li>
+<li>Enjoy a quick simple game</li>
 </ul>
 
 ### Site Owner Goals
 
 <ul>
-<li></li>
+<li>For users to leave with a good experience.</li>
 </ul>
 
 ## User Experience
@@ -49,7 +49,7 @@
 ### Targeted Audience
 
 <ul>
-<li></li>
+<li>Anyone looking to play a quiz game.</li>
 </ul>
 
 ### User Requirements and Expectations
@@ -62,17 +62,17 @@
 
 #### As A First Time User:
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. I want the site to be easily navigatable.
+2. I want to be able view the website on various browsers.
+3. I want to be able to view the website on different screen sizes
+4. I want to be able to leave feedback/contact.
+5. I want 
 6. 
 7. 
 
 #### As A Returning User:
 
-8. 
+8. I would like the site to be updated with new features.
 
 #### As A Site Owner:
 9. I want users to be able to track their progress.
