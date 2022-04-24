@@ -93,6 +93,7 @@
 
 ### Fonts
 
+The font style I used for this project was 'Poppins', which I accsessed via Google Fonts.
 
 ### Structure
 
@@ -200,6 +201,7 @@ The site was deployed to GitHub Pages via the following steps:
 
 <ul>
 <li>The template used for this website was the CI template from Code Institute.</li>
+<li></li>
 </ul>
 
 
@@ -207,17 +209,20 @@ The site was deployed to GitHub Pages via the following steps:
 
 <ul>
 <li></li>
+<li></li>
 </ul>
 
 
  ### Media 
  
  <ul>
+ <li>Background image for this project was taken from </li>
  <li></li>
  </ul>
 
  ## Acknowledgements
 
  <ul>
- <li></li>
+ <li>I would like to thank my mentor Mo Shami for his continued guidance and support, especially with my busy lifestyle.</li>
+ <li>I would also like to extend my gratitude to the Code institute family for their support and understanding.</li>
  </ul>
