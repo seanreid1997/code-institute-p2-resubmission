@@ -15,18 +15,15 @@
 }
 
 #home-btn {
-    background-color: rgb(14, 14, 14);
-    color: rgb(255, 255, 255);
+    background-color: rgb(113, 244, 99);
+    color: rgb(0, 0, 0);
     border-radius: 25px;
-    text-align: center;
     font-size: 100%;
-    font-weight: bolder;
     border: 1px solid;
-    text-decoration: none;
+    margin: 2% 47% 10% 47%;
 }
 
 #home-btn a {
-    padding: 1%;
+    font-weight: bolder;
     text-decoration: none;
-    text-align: center;
 }
