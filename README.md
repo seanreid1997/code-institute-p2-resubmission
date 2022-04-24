@@ -101,7 +101,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/wireframes/homeframe.jpg">
+<img src="docs/.jpg">
 </details>
 
 
@@ -135,20 +135,138 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Validation
 
 ### HTML
+<details><summary>Home</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Game Page</summary>
+<img src="docs/.jpg">
+</details>
 
 ### CSS
+<details><summary>About Us</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Conatct</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Login</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>404 page</summary>
+<img src="docs/.jpg">
+</details>
+
+### Css
+
+<details><summary>Home</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Game Page</summary>
+<img src="docs/.jpg">
+</details>
+
+### CSS
+<details><summary>About Us</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Conatct</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Login</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>404 page</summary>
+<img src="docs/.jpg">
+</details>
 
 ### Javascript
 
+<details><summary>Home</summary>
+<img src="docs/.jpg">
+</details>
 
+<details><summary>Game Page</summary>
+<img src="docs/.jpg">
+</details>
 
+### CSS
+<details><summary>About Us</summary>
+<img src="docs/.jpg">
+</details>
 
+<details><summary>Conatct</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Login</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>404 page</summary>
+<img src="docs/.jpg">
+</details>
 
 ### Accessablility
 
+<details><summary>Home</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Game Page</summary>
+<img src="docs/.jpg">
+</details>
+
+### CSS
+<details><summary>About Us</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Conatct</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Login</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>404 page</summary>
+<img src="docs/.jpg">
+</details>
 
 ### Performance
 
+<details><summary>Home</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Game Page</summary>
+<img src="docs/.jpg">
+</details>
+
+### CSS
+<details><summary>About Us</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Conatct</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>Login</summary>
+<img src="docs/.jpg">
+</details>
+
+<details><summary>404 page</summary>
+<img src="docs/.jpg">
+</details>
 
 ### Device Testing
 
