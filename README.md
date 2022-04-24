@@ -175,7 +175,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>404 page</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/404htmlvalid.jpg">
 </details>
 
 ### CSS
@@ -201,7 +201,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>404 page</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/404cssvalid.jpg">
 </details>
 
 ### Javascript
