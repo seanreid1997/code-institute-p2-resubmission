@@ -403,7 +403,7 @@ The site was deployed to GitHub Pages via the following steps:
 ### Content
 
 <ul>
-<li></li>
+<li>Code for login was based off of the source code from <a href="https://codepen.io/Mansoor-amin/pen/RNqrJV">Codepen</a></li>
 <li></li>
 </ul>
 
