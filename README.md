@@ -171,7 +171,101 @@ The website was tested on the browsers listed below:
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
+2. 
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+3. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+4. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+5. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+6. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+7. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+8. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+9. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+10. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+11. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+12. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
+
+13. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
 
 ## Bugs
 
