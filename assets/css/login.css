@@ -1,0 +1,86 @@
+#login-container {
+    width: 30%;
+    margin: 8% auto;
+}
+.tabs {
+    display: table-cell;
+    width: 30%;
+    background-color: rgba(10, 10, 10, 0.82);
+    padding: 10px;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    border: 2px solid #ffffff;
+    border-bottom: 0px;
+    position: relative;
+    font-size: 1.3em;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.tabs:hover {
+    cursor: pointer;
+    transition: transform 150ms;
+    transform: scale(0.95);
+}
+
+#lt {
+    background-color: rgb(109, 109, 109);
+}
+#input-container {
+    width: 100%;
+    height: 60vh;
+    background-color: rgb(23, 23, 23);
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+}
+
+input{
+    display: block;
+    width: 90%;
+    margin: 10% 0 10% 35%;
+    padding: 10px;
+    font-size: 1.3em;
+    color: rgba(43, 43, 43, 0.82);
+    border-radius: 10px;
+}
+
+input[type="submit"] {
+    width: 40%;
+    color: #6e6e6e;
+    border-radius: 10px;
+}
+
+#clear {
+    clear: both;
+}
+
+.comm {
+    position: absolute;
+    visibility: hidden;
+}
+#login {
+    visibility: visible;
+}
+
+h3 {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px 15px;
+    font-size: 1.5em;
+    color: #ffffff;
+}
+
+#forgot h3 {
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#forgot div {
+    margin-top: 30px;
+}
+p {
+    padding: 10px 15px;
+    font-size: 1.3em;
+    color: #ffffff;
+}
