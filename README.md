@@ -468,5 +468,5 @@ The site was deployed to GitHub Pages via the following steps:
  <li>I would like to thank my mentor Mo Shami for his continued guidance and support, especially with my busy lifestyle.</li>
  <li>I would also like to extend my gratitude to the Code institute family for their support and understanding.</li>
  </ul>
-
- [<i class="fas fa-arrow-alt-square-up"></i>](#Tech-Company-Ltd-Database)
+ 
+ [Return To Top](#Tech-Company-Ltd-Database)
