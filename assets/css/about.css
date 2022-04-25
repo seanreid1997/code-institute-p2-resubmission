@@ -5,3 +5,18 @@
     margin: 10% auto;
     box-shadow: 2px 2px 6px 6px #aaaaaa;
 }
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 414px;
+    width: 650px;
+    border: 1px solid;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none!important;
+    height: 414px;
+    width:650px;
+}
