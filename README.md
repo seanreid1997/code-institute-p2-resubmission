@@ -141,6 +141,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### About Us Page
 
+<details><summary>Screenshots</summary>
+<img src="docs/features/featabout.jpg">
+</details>
+
 ### Contact Page
 
 <details><summary>Screenshots</summary>
@@ -169,7 +173,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>About Us</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/abouthtmlvalid.jpg">
 </details>
 
 <details><summary>Conatct</summary>
@@ -195,7 +199,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>About Us</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/aboutcssvalid.jpg">
 </details>
 
 <details><summary>Conatct</summary>
