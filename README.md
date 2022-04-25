@@ -96,7 +96,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/.jpg">
+<img src="docs/wireframes/homewireframe.jpg">
 </details>
 
 
