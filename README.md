@@ -386,9 +386,9 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Contact admin | User fills in form or contact via email/call | User should be able to contact site admin | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/storytest/contactstorytest1.jpg"></details>
-<details><summary>Screenshots</summary>
-<img src="docs/storytest/contactstorytest2.jpg"></details>
+<img src="docs/storytest/contactstorytest1.jpg">
+<img src="docs/storytest/contactstorytest2.jpg">
+</details>
 
 10.  I want users to be able to login/register.
 
@@ -468,3 +468,5 @@ The site was deployed to GitHub Pages via the following steps:
  <li>I would like to thank my mentor Mo Shami for his continued guidance and support, especially with my busy lifestyle.</li>
  <li>I would also like to extend my gratitude to the Code institute family for their support and understanding.</li>
  </ul>
+
+ [<i class="fas fa-arrow-alt-square-up"></i>](#Tech-Company-Ltd-Database)
