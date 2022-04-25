@@ -371,7 +371,9 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Contact admin | User fills in form or contact via email/call | User should be able to contact site admin | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/contactstorytest1"></details>
+<details><summary>Screenshots</summary>
+<img src="docs/storytest/contactstorytest2"></details>
 
 10.  I want users to be able to login/register.
 
@@ -379,7 +381,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Registration | User selects login icon | User should be redirected to registration page | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/loginstorytest"></details>
 
 11. I want the website to be responsive.
 
@@ -395,7 +397,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Return home button on 404 page | User is redirected to 404 page | Selecting the return home button returns user to home page | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/404storytest"></details>
 
 ## Bugs
 
