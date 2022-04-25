@@ -55,7 +55,8 @@
 ### User Requirements and Expectations
 
 <ul>
-<li></li>
+<li>User should be able to understand English</li>
+<li>User should leave with a good impression</li>
 </ul>
 
 ### User Stories
@@ -64,24 +65,18 @@
 
 1. I want the site to be easily navigatable.
 2. I want to be able view the website on various browsers.
-3. I want to be able to view the website on different screen sizes
+3. I want to be able to view the website on different screen sizes.
 4. I want to be able to leave feedback/contact.
 5. I want to be able share the website via social media.
 6. I want the website to be fully functional.
 
-#### As A Returning User:
-
-7. I would like the site to be updated with new features.
-
 #### As A Site Owner:
-8. I want the website to be browser compatible.
-9. I want users to be able to track their progress.
-10. I want users to be rediredcted to 404 page when incorrect url is entered.
-11. I want all links and functions to work accordingly.
-12. I want users to be able to provide feedback.
-13. I want users to be able to login/register.
-14. I want the website to be responsive.
-15. I want users to be able to return to home without using browser back button.
+7. I want the website to be browser compatible.
+8. I want users to be able to track their progress.
+9. I want users to be able to provide feedback on their experience.
+10. I want users to be able to login/register.
+11. I want the website to be responsive.
+12. I want users to be able to return to home without using browser back button.
 
 ## Design
 
@@ -306,107 +301,99 @@ The website was tested on the browsers listed below:
 
 ### Testing User Stories
 
-1. 
+1. I want the site to be easily navigatable.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| I want the site to be easily navigatable. | Browse through site | Site should be easy to navigate | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-2. 
+2. I want to be able view the website on various browsers.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Browser compatibility | View site on different browsers | Site should be comaptible with other browsers | Works as expected|
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-3. 
+3. I want to be able to view the website on different screen sizes.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Responsive design | view device on different scren size | Site should adjust design based on screen size | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-4. 
+4. I want to be able to leave feedback/contact.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Contact site owner/admin | User either fill is form or contact via email or call | User contacts admin successfully | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-5. 
+5. I want to be able share the website via social media.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Social Media | User clicks on social media links | User is redirected to official site of social media | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-6. 
+6. I want the website to be fully functional.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Functionality | Navigate site | No errors while navigating site | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-7. 
+7. I want the website to be browser compatible.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Browser compatibility | View website on various browsers | Site should work properly | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-8. 
+8. I want users to be able to track their progress.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Progress bar | Play game | User should be updated on how many questions left | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-9. 
+9. I want users to be able to provide feedback on their experience.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Contact admin | User fills in form or contact via email/call | User should be able to contact site admin | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-10. 
+10.  I want users to be able to login/register.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Registration | User selects login icon | User should be redirected to registration page | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-11. 
+11. I want the website to be responsive.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Responsivity | View site on different screen sizes | Site should alter display depending on screen size | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
-12. 
+12. I want users to be able to return to home without using browser back button.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
-<details><summary>Screenshots</summary>
-<img src=""></details>
-
-13. 
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|  |  |  | Works as expected |
+| Return home button on 404 page | User is redirected to 404 page | Selecting the return home button returns user to home page | Works as expected |
 <details><summary>Screenshots</summary>
 <img src=""></details>
 
