@@ -131,7 +131,15 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### Home Page
 
+<ul>
+<li></li>
+</ul>
+
 ### Login Page
+
+<ul>
+<li></li>
+</ul>
 
 <details><summary>Screenshots</summary>
 <img src="docs/features/featlogin.jpg">
@@ -139,7 +147,16 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### Game Page
 
+<ul>
+<li></li>
+</ul>
+
 ### About Us Page
+
+<ul>
+<li>The about us page gives a brief description of the website and it's goals.</li>
+<li>Underneath the description is a map and address along with contact details.</li>
+</ul>
 
 <details><summary>Screenshots</summary>
 <img src="docs/features/featabout.jpg">
@@ -147,13 +164,29 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### Contact Page
 
+<ul>
+<li>The contact page consists of a form which the user is required to fill out.</li>
+<li>Here the user can leave feedback, suggestions or anything they'd like to discuss.</li>
+</ul>
+
 <details><summary>Screenshots</summary>
 <img src="docs/features/featcontact.jpg">
 </details>
 
 ### Footer
 
+<ul>
+<li>Located at the bottom of every page is a footer</li>
+<li>The footer consists of links to various social media websites</li>
+<li>Also to the right-hand side of the footer is a link to our contact page.</li>
+</ul>
+
+<details><summary>Screenshots</summary>
+<img src="docs/features/feat404.jpg">
+</details>
+
 ### 404 Page
+
 
 <details><summary>Screenshots</summary>
 <img src="docs/features/feat404.jpg">
