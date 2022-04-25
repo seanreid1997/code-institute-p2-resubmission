@@ -1,7 +1,7 @@
 #content {
     width: 70%;
     background-color: rgb(255, 255, 255);
-    height: 90vh;
+    height: 120vh;
     margin: 10% auto;
     box-shadow: 2px 2px 6px 6px #aaaaaa;
 }
@@ -19,4 +19,9 @@
     background: none!important;
     height: 414px;
     width:650px;
+}
+
+#address {
+    padding-top: 5%;
+    float: left;
 }
