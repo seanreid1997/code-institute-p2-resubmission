@@ -4,7 +4,7 @@ let questions = [{
     answer2: '122',
     answer3: '111',
     answer4: '144',
-    correctAnswer: 4
+    answer: 4
 },
 {
     question: 'How many 100ml bottles of water can fit in a 1litre container?',
@@ -12,7 +12,7 @@ let questions = [{
     answer2: '10',
     answer3: '4',
     answer4: '8',
-    correctAnswer: 2
+    answer: 2
 }]
 
 const question = document.getElementById('question');
@@ -20,6 +20,7 @@ const answers = document.getElementsByClassName('answers');
 const progressBar = document.getElementById('progressBar');
 const score = document.getElementById('score');
 const MAX_QUESTIONS = 2;
+const answer = questions[answer]
 
 console.log(questions);
 let questionCounter;

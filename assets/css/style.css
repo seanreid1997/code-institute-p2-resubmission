@@ -55,9 +55,20 @@ body {
 }
 
 .active {
-    text-decoration:wavy;
+    border-bottom: 2px solid;
     color: #fff;
 }
+
+img {
+    opacity: 0.9;
+    height: 20%;
+    width: 50%;
+}
+  
+img:hover {
+    opacity: 1.0;
+}
+  
 
 /*Class to make targeted element invisible*/
 .hidden {
