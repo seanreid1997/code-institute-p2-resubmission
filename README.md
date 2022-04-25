@@ -1,4 +1,4 @@
-# 
+# Online Quiz
 (Developer: Sean Reid)
 
 <img src="docs/p2mock.jpg">
@@ -469,4 +469,4 @@ The site was deployed to GitHub Pages via the following steps:
  <li>I would also like to extend my gratitude to the Code institute family for their support and understanding.</li>
  </ul>
  
- [Return To Top](#Tech-Company-Ltd-Database)
+ [Return To Top](#Online-Quiz)
