@@ -99,6 +99,21 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/wireframes/homewireframe.jpg">
 </details>
 
+<details><summary>Main Game</summary>
+<img src="docs/wireframes/gamewireframe.jpg">
+</details>
+
+<details><summary>About</summary>
+<img src="docs/wireframes/aboutwireframe.jpg">
+</details>
+
+<details><summary>Login</summary>
+<img src="docs/wireframes/loginwireframe.jpg">
+</details>
+
+<details><summary>Contact</summary>
+<img src="docs/wireframes/contactwireframe.jpg">
+</details>
 
 ## Technologies Used
 
