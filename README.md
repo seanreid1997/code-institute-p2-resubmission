@@ -418,6 +418,7 @@ The site was deployed to GitHub Pages via the following steps:
  <ul>
  <li>Background image for this project was taken from </li>
  <li>Favicon used was from <a href="https://favicon.io/">favicon.io/</a></li>
+ <li>Embedded map was taken from <a href="https://www.embedgooglemap.net/">https://www.embedgooglemap.net/</a></li>
  </ul>
 
  ## Acknowledgements
