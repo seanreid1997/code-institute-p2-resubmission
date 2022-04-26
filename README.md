@@ -166,7 +166,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </ul>
 
 <details><summary>Screenshots</summary>
-<img src="docs/features/featlogin.jpg">
+<img src="docs/features/featgames.jpg">
 </details>
 
 ### Game Page
