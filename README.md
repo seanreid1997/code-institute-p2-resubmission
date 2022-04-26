@@ -400,7 +400,10 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Browser compatibility | View site on different browsers | Site should be comaptible with other browsers | Works as expected|
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/chrome.jpg">
+<img src="docs/storytest/edge.jpg">
+<img src="docs/storytest/firefox.jpg">
+</details>
 
 3. I want to be able to view the website on different screen sizes.
 
