@@ -99,6 +99,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/wireframes/homewireframe.jpg">
 </details>
 
+<details><summary>Games</summary>
+<img src="docs/wireframes/gameswireframe.jpg">
+</details>
+
 <details><summary>Main Game</summary>
 <img src="docs/wireframes/gamewireframe.jpg">
 </details>
@@ -155,7 +159,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/features/featlogin.jpg">
 </details>
 
-### Game Page
+### Games Page
 
 <ul>
 <li></li>
