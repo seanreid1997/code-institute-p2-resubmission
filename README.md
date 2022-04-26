@@ -523,7 +523,8 @@ The site was deployed to GitHub Pages via the following steps:
  ### Media 
  
  <ul>
- <li>Background image for this project was taken from </li>
+ <li>Background image for this project was taken from <a href="https://www.freepik.com/vectors/question-pattern">
+ Question pattern vector created by vilmosvarga - www.freepik.com</a></li>
  <li>Favicon used was from <a href="https://favicon.io/">favicon.io/</a></li>
  <li>Embedded map was taken from <a href="https://www.embedgooglemap.net/">https://www.embedgooglemap.net/</a></li>
  </ul>
