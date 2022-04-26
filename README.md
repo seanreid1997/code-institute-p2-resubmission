@@ -229,6 +229,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/.jpg">
 </details>
 
+<details><summary>Games</summary>
+<img src="docs/validation/gameshtmlvalid.jpg">
+</details>
+
 <details><summary>Game Page</summary>
 <img src="docs/.jpg">
 </details>
@@ -253,6 +257,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 <details><summary>Home</summary>
 <img src="docs/.jpg">
+</details>
+
+<details><summary>Games</summary>
+<img src="docs/validation/gamescssvalid.jpg">
 </details>
 
 <details><summary>Game Page</summary>
