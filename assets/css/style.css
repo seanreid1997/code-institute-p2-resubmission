@@ -62,7 +62,7 @@ body {
 #gamechoice {
     background-color: rgb(176, 176, 176);
     display: flex;
-    margin: 4% 5% 10% 5%;
+    margin: 8% 5% 25% 5%;
     border-radius: 5px;
 }
 .selectgame {
@@ -74,6 +74,7 @@ body {
 img {
     height: 100%;
     width: 100%;
+    border-radius: 20px;
 }
   
 .selectgame a img:hover {
