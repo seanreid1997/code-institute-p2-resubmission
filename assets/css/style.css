@@ -62,7 +62,7 @@ body {
 #gamechoice {
     background-color: rgb(176, 176, 176);
     display: flex;
-    margin: 8% 5% 25% 5%;
+    margin: 16% 5% 25% 5%;
     border-radius: 5px;
 }
 .selectgame {
