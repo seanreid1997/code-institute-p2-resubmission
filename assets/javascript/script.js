@@ -1,32 +1,18 @@
+let quse
+
 console.log('CONNECTED')
-var element = document.getElementsByClassName('container');
-var start = document.getElementById('start');
-
-let questions = [{
-    question: 'hi',
-    answer: '1',
-    answer: '2'
-},
-{
-    question: 'hello',
-    answer: '1',
-    answer: '2'
-},
-{
-    question: 'hello',
-    answer: '1',
-    answer: '2'
-}
-]
-
-for (question in questions){
-    console.log(question);
-}
+const element = document.getElementById('game-container');
+const start = document.getElementById('start');
 
 
-start.addEventListener('click', myFunction)
-
-function myFunction() {
+/**
+ * Function that starts the game when user 
+ * clicks on the start button
+ */
+function startGame(){
+    
     start.classList.add('hide');
-    element.classList.remove('hide');
+
+    hide = element.classList.remove('hide');
+    return hide
 }

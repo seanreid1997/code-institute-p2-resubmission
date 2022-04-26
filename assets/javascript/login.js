@@ -76,7 +76,7 @@ function login(event){
         return ;
     }
     else {
-        alert(email + " yor are login Now \n welcome to our website.");
+        alert(email + " you are login Now \n welcome to our website.");
         event.addEventListener('submit', function (){
             window.location.href = "index.html"
         });
