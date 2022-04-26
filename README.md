@@ -159,11 +159,25 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/features/featlogin.jpg">
 </details>
 
-### Games Page
+### Games Selection Page
 
 <ul>
 <li></li>
 </ul>
+
+<details><summary>Screenshots</summary>
+<img src="docs/features/featlogin.jpg">
+</details>
+
+### Game Page
+
+<ul>
+<li></li>
+</ul>
+
+<details><summary>Screenshots</summary>
+<img src="docs/features/featlogin.jpg">
+</details>
 
 ### About Us Page
 
