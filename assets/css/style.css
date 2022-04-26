@@ -56,19 +56,38 @@ body {
 
 .active {
     border-bottom: 2px solid;
-    color: #fff;
+    color: rgb(194, 162, 162);
 }
 
+#gamechoice {
+    background-color: rgb(176, 176, 176);
+    display: flex;
+    margin: 4% 5% 10% 5%;
+    border-radius: 5px;
+}
+.selectgame {
+    width: 40%;
+    height: 30%;
+    padding: 3%;
+    flex-direction: row;
+}
 img {
-    opacity: 0.9;
-    height: 20%;
-    width: 50%;
+    height: 100%;
+    width: 100%;
 }
   
-img:hover {
-    opacity: 1.0;
+.selectgame a img:hover {
+    cursor: pointer;
+    transition: transform 150ms;
+    transform: scale(1.15);
 }
-  
+
+.selectgame a {
+    text-decoration: none;
+}
+.selectgame p {
+    font-size: 300%;
+}
 
 /*Class to make targeted element invisible*/
 .hidden {
