@@ -16,8 +16,8 @@ form h1 {
     font-size: 30px;
     font-weight: 500;
     margin-bottom: 3%;
-    margin-left: 13%;
     margin-top: 2%;
+    text-align: center;
 }
 
 form input {

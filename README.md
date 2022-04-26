@@ -419,7 +419,9 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Contact site owner/admin | User either fill is form or contact via email or call | User contacts admin successfully | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/contactstorytest1.jpg">
+<img src="docs/storytest/contactstorytest2.jpg">
+</details>
 
 5. I want to be able share the website via social media.
 
@@ -443,7 +445,10 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Browser compatibility | View website on various browsers | Site should work properly | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/chrome.jpg">
+<img src="docs/storytest/edge.jpg">
+<img src="docs/storytest/firefox.jpg">
+</details>
 
 8. I want users to be able to track their progress.
 
