@@ -289,24 +289,28 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/.jpg">
 </details>
 
+<details><summary>Games</summary>
+<img src="docs/validation/gameshtmlvalid.jpg">
+</details>
+
 <details><summary>Game Page</summary>
 <img src="docs/.jpg">
 </details>
 
 <details><summary>About Us</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/abouthtmlvalid.jpg">
 </details>
 
 <details><summary>Conatct</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/contacthtmlvalid.jpg">
 </details>
 
 <details><summary>Login</summary>
-<img src="docs/validation/logincssvalid.jpg">
+<img src="docs/validation/loginhtmlvalid.jpg">
 </details>
 
 <details><summary>404 page</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/404htmlvalid.jpg">
 </details>
 
 ### Accessablility
@@ -315,8 +319,28 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/.jpg">
 </details>
 
+<details><summary>Games</summary>
+<img src="docs/validation/gameshtmlvalid.jpg">
+</details>
+
 <details><summary>Game Page</summary>
 <img src="docs/.jpg">
+</details>
+
+<details><summary>About Us</summary>
+<img src="docs/validation/abouthtmlvalid.jpg">
+</details>
+
+<details><summary>Conatct</summary>
+<img src="docs/validation/contacthtmlvalid.jpg">
+</details>
+
+<details><summary>Login</summary>
+<img src="docs/validation/loginhtmlvalid.jpg">
+</details>
+
+<details><summary>404 page</summary>
+<img src="docs/validation/404htmlvalid.jpg">
 </details>
 
 ### Performance
@@ -325,8 +349,28 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/.jpg">
 </details>
 
+<details><summary>Games</summary>
+<img src="docs/validation/gameshtmlvalid.jpg">
+</details>
+
 <details><summary>Game Page</summary>
 <img src="docs/.jpg">
+</details>
+
+<details><summary>About Us</summary>
+<img src="docs/validation/abouthtmlvalid.jpg">
+</details>
+
+<details><summary>Conatct</summary>
+<img src="docs/validation/contacthtmlvalid.jpg">
+</details>
+
+<details><summary>Login</summary>
+<img src="docs/validation/loginhtmlvalid.jpg">
+</details>
+
+<details><summary>404 page</summary>
+<img src="docs/validation/404htmlvalid.jpg">
 </details>
 
 ### Device Testing
