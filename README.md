@@ -146,13 +146,13 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Home Page
 
 <ul>
-<li></li>
+<li>On the home page you can try a demo game.</li>
 </ul>
 
 ### Login Page
 
 <ul>
-<li></li>
+<li>This website has a page where you can register and/or login</li>
 </ul>
 
 <details><summary>Screenshots</summary>
@@ -162,7 +162,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Games Selection Page
 
 <ul>
-<li></li>
+<li>When you click on the 'games' page you will see a range of games to play.</li>
 </ul>
 
 <details><summary>Screenshots</summary>
