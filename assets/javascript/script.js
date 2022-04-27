@@ -1,4 +1,5 @@
-let questions = [{
+console.log('CONNECTED')
+const questions = [{
     question: 'What is 12 x 12?',
     answer1: '234',
     answer2: '122',
@@ -15,10 +16,12 @@ let questions = [{
     correctAnswer: 2
 }]
 
-console.log('CONNECTED')
 const element = document.getElementById('game-container');
 const start = document.getElementById('start');
-let answers = document.getElementsByClassName('answers')
+const aquestion = document.getElementById('question')
+const answers = document.getElementsByClassName('answers')
+var randQuestion;
+var currentQuestionIndex;
 
 
 /**
@@ -28,14 +31,20 @@ let answers = document.getElementsByClassName('answers')
 function startGame(){
     
     start.classList.add('hide');
+    randQuestion = questions.sort(() => Math.random() - 5)
+    currentQuestionIndex = 0;
+
     element.classList.remove('hide');
     return element
+    newQuestion()
 }
 
 function newQuestion() {
-    
+    showQuestion(randQuestion[currentQuestionIndex]);
 }
 
-function randomQuestion() {
-    
+function showQuestion(question) {
+    aquestion.innerText = 'hello';
+    return aquestion;
 }
+
