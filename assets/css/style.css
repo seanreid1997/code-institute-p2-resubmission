@@ -160,13 +160,29 @@ img {
     padding-top: 30%;
 }
 
-.answers p {
+#answers p {
     background-color: black;
     color: #fff;
     margin: 2%;
     border: 1px;
     border-radius: 4px;
     padding: 2%;
+}
+
+#answer-btn p {
+    background-color: black;
+    color: #fff;
+    margin: 2%;
+    border: 1px;
+    border-radius: 4px;
+    padding: 2%;
+}
+
+.ans-btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(90, 90, 90, 0.6);
+    transition: transform 150ms;
+    transform: scale(1.01);
 }
 
 .btn:hover {
