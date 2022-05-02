@@ -234,7 +234,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>Game Page</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/mathhtmlvalid.jpg">
 </details>
 
 <details><summary>About Us</summary>
@@ -290,15 +290,15 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>Game Page</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/mathjsvalid.jpg">
 </details>
 
 <details><summary>Conatct</summary>
-<img src="docs/validation/contacthtmlvalid.jpg">
+<img src="docs/validation/contactjsvalid.jpg">
 </details>
 
 <details><summary>Login</summary>
-<img src="docs/validation/loginhtmlvalid.jpg">
+<img src="docs/validation/loginjsvalid.jpg">
 </details>
 
 ### Accessablility

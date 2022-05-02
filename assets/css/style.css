@@ -147,7 +147,7 @@ img {
 }
 
 .answers-container {
-    padding-top: -0.1%;
+    margin-top: -0.1%;
 }
 
 .ans-btn {
@@ -180,7 +180,7 @@ img {
     margin: 2%;
     border: 1px;
     border-radius: 4px;
-    padding: 2%;
+    padding: 1%;
 }
 
 .incorrect {
@@ -189,7 +189,7 @@ img {
     margin: 2%;
     border: 1px;
     border-radius: 4px;
-    padding: 2%;
+    padding: 1%;
 }
 
 .hide {
@@ -427,7 +427,7 @@ img {
 }
 
 .answers-container {
-    padding-top: -0.1%;
+    margin-top: -0.1%;
 }
 
 .ans-btn {

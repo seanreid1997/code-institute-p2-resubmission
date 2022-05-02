@@ -82,13 +82,13 @@ const questions = [{
 /**
  * Give variables values from maths.html
  */
-const container = document.querySelector('.container')
+const container = document.querySelector('.container');
 const question = document.querySelector('#question');
 const choices = Array.from(document.querySelectorAll('.ans-btn'));
 const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
 const progressBarFull = document.querySelector('#progressBarFull');
-const start = document.querySelector('#start')
+const start = document.querySelector('#start');
 
 let currentQuestion = {};
 let answers = true;
@@ -98,14 +98,14 @@ let mathQuestions = [];
 let points = 10;
 let maxQuestions = 10;
 
-start.addEventListener('click', startGame())
+start.addEventListener('click', startGame());
 
 /**
  * Starts the game
  */
 function startGame(){
-    start.classList.add('hidden')
-    container.classList.remove('hidden')
+    start.classList.add('hidden');
+    container.classList.remove('hidden');
     questionCounter = 0;
     score = 0;
     mathQuestions = questions;
@@ -129,9 +129,9 @@ function startGame(){
     question.innerText = currentQuestion.question;
 
     choices.forEach(choice => {
-        let number = choice.dataset['number'];
+        let number = choice.dataset.number;
         choice.innerText = currentQuestion['choice' + number];
-    })
+    });
 
     mathQuestions.splice(questionsIndex, 1);
     answers = true;
@@ -143,7 +143,7 @@ choices.forEach(choice => {
 
         answers = false;
         let selectedChoice = e.target;
-        let selectedAnswer = selectedChoice.dataset['number'];
+        let selectedAnswer = selectedChoice.dataset.number;
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         if(classToApply === 'correct') {
@@ -151,15 +151,15 @@ choices.forEach(choice => {
         }
         
         
-        selectedChoice.parentElement.classList.add(classToApply)
+        selectedChoice.parentElement.classList.add(classToApply);
 
         setTimeout(() => {
             selectedChoice.parentElement.classList.remove(classToApply);
             newQuestion();
 
-        }, 1000)
-    })
-})
+        }, 1000);
+    });
+});
 
 /**
  * function that Increments the score of the user
@@ -168,5 +168,3 @@ function incrementScore(num) {
     score +=num;
     scoreText.innerText = score;
 }
-
-startGame();
