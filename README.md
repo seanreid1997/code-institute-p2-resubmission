@@ -172,11 +172,12 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Game Page
 
 <ul>
-<li></li>
+<li>On the game page you will be given a set questions and answers.</li>
+<li>Theres also a progress bar and score tracker.</li>
 </ul>
 
 <details><summary>Screenshots</summary>
-<img src="docs/features/featlogin.jpg">
+<img src="docs/features/featgame.jpg">
 </details>
 
 ### About Us Page
