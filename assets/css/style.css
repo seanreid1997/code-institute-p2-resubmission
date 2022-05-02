@@ -125,8 +125,8 @@ img {
 
 #score {
     float: right;
-    font-size: 20px;
-    padding-top: 2%;
+    font-size: 30px;
+    margin-top: -5%;
     padding-right: 2%;
 }
 
@@ -223,7 +223,7 @@ button {
 
 #progressBar {
     width: 15rem;
-    height: 2.5rem;
+    height: 2.2rem;
     border: 0.2rem solid rgb(11,223,36);
     margin-top: 2rem;
     border-radius: 50px;
