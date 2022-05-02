@@ -150,7 +150,7 @@ img {
     padding-top: -0.1%;
 }
 
-.answers p {
+.ans-btn {
     background-color: black;
     color: #fff;
     margin: 2%;
@@ -176,10 +176,20 @@ img {
 
 .correct {
     background-color: rgb(132, 246, 132);
+    color: rgb(26, 26, 26);
+    margin: 2%;
+    border: 1px;
+    border-radius: 4px;
+    padding: 2%;
 }
 
 .incorrect {
     background-color: red;
+    color: rgb(8, 8, 8);
+    margin: 2%;
+    border: 1px;
+    border-radius: 4px;
+    padding: 2%;
 }
 
 .hide {
@@ -246,4 +256,243 @@ button {
 }
 .hud-prefix {
     color: rgb(1, 1, 1);
+}
+
+@media screen and (max-width: 768px) {
+    /*Styling for heading and navigation*/
+#nav {
+    background-color: black;
+    color: #fff;
+    width: 100%;
+}
+
+#nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+#nav ul li {
+    font-size:18px;
+    padding: 1%;
+}
+
+#nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    flex-direction: row;
+}
+
+#nav ul li a:hover {
+    background: #fff;
+    color: black;
+    border-radius: 25px;
+    border-spacing: 5px;
+}
+
+#login-link {
+    color: #fff;
+    float: right;
+    padding: 0.45%;
+    font-size: 25px;
+    text-decoration: none;
+}
+#login-link:hover {
+    color: black;
+    background-color: #fff;
+}
+
+.active {
+    border-bottom: 2px solid;
+    color: rgb(194, 162, 162);
+}
+
+#gamechoice {
+    background-color: rgb(176, 176, 176);
+    display: block;
+    margin: 50% 5% 50% 5%;
+    border-radius: 5px;
+}
+.selectgame {
+    width: 40%;
+    height: 30%;
+    padding: 2%;
+    margin: 0 auto;
+}
+
+#gamechoice p {
+    font-size: 10px;
+    text-align: center;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+  
+.selectgame a img:hover {
+    cursor: pointer;
+    transition: transform 150ms;
+    transform: scale(1.15);
+}
+
+.selectgame a {
+    text-decoration: none;
+}
+.selectgame p {
+    font-size: 300%;
+}
+
+/*Class to make targeted element invisible*/
+.hidden {
+    display: none;
+}
+
+/*Styling for main game including questions and score counter*/
+
+#start {
+    font-size: 700%;
+    border-radius: 25px;
+    background-color: black;
+    color: #fff;
+    margin: 30% 20% 40% 30% ;
+    text-align: center;
+}
+
+#start:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(90, 90, 90, 0.6);
+    transition: transform 150ms;
+    transform: scale(1.01);
+}
+
+.container {
+    height: 100%;
+    background-color: #fff;
+    width: 70%;
+    margin: 40% auto;
+    box-shadow: 5px 5px 5px 5px #4b4b4b;
+    padding-bottom: 5%;
+    border-radius: 10px;
+}
+
+#progressBar {
+    width: 9rem;
+    height: 1rem;
+    border: 0.2rem solid rgb(11,223,36);
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+#progressBarFull {
+    height: 100%;
+    background: rgb(11,223,36);
+    width: 0%;
+}
+
+#progressText {
+    float: left;
+    font-size: 20px;
+}
+
+.hud-item {
+    padding: 2%;
+}
+.hud-prefix {
+    color: rgb(1, 1, 1);
+}
+
+#score {
+    float: right;
+    font-size: 20px;
+    margin-top: -5%;
+    padding-right: 2%;
+}
+
+#scoreText {
+    font-size: 30px;
+    float: right;
+}
+
+#questions {
+    margin-bottom: 10%;
+    margin-top: 1%;
+}
+
+#question {
+    padding-top: 3%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.answers-container {
+    padding-top: -0.1%;
+}
+
+.ans-btn {
+    background-color: black;
+    color: #fff;
+    margin: 2%;
+    border: 1px;
+    border-radius: 4px;
+    padding: 2%;
+}
+
+.ans-btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(90, 90, 90, 0.6);
+    transition: transform 150ms;
+    transform: scale(1.01);
+}
+
+
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(90, 90, 90, 0.6);
+    transition: transform 150ms;
+    transform: scale(1.01);
+}
+
+.correct {
+    background-color: rgb(132, 246, 132);
+}
+.incorrect {
+    background-color: red;
+}
+
+/*Styling for footer including link to contact page and return to top button*/
+
+footer {
+    width: 100%;
+    background-color: black;
+}
+
+footer ul {
+    margin: auto;
+    display: flex;
+}
+
+footer ul li {
+    flex-direction: row;
+    padding: 1% 2%;
+}
+
+footer ul li a {
+    font-size: 20px;
+    color: #fff;
+}
+
+#contact {
+    float: right;
+    margin-top: -25px;
+    margin-right: 13%;
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+
+button {
+    text-align: center;
+}
 }

@@ -82,11 +82,13 @@ const questions = [{
 /**
  * Give variables values from maths.html
  */
+const container = document.querySelector('.container')
 const question = document.querySelector('#question');
 const choices = Array.from(document.querySelectorAll('.ans-btn'));
 const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
 const progressBarFull = document.querySelector('#progressBarFull');
+const start = document.querySelector('#start')
 
 let currentQuestion = {};
 let answers = true;
@@ -96,20 +98,20 @@ let mathQuestions = [];
 let points = 10;
 let maxQuestions = 10;
 
+start.addEventListener('click', startGame())
+
 /**
  * Starts the game
  */
 function startGame(){
-   questionCounter = 0;
-   score = 0;
-   mathQuestions = questions;
-   newQuestion();
+    start.classList.add('hidden')
+    container.classList.remove('hidden')
+    questionCounter = 0;
+    score = 0;
+    mathQuestions = questions;
+    newQuestion();
 }
 
-
-function choose(choice) {
-    
-}
  /**
  * Generates a new random question from the questions array
  */
@@ -147,14 +149,15 @@ choices.forEach(choice => {
         if(classToApply === 'correct') {
             incrementScore(points);
         }
-
+        
+        
         selectedChoice.parentElement.classList.add(classToApply)
 
         setTimeout(() => {
             selectedChoice.parentElement.classList.remove(classToApply);
             newQuestion();
 
-        }, 100)
+        }, 1000)
     })
 })
 
