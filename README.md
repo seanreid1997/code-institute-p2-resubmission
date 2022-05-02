@@ -508,7 +508,7 @@ The site was deployed to GitHub Pages via the following steps:
 
 <ul>
 <li>The template used for this website was the CI template from Code Institute.</li>
-<li></li>
+<li>The main structure of the javascript was from a youtube tutorial made on the Brian Design channel. <a href="https://www.youtube.com/watch?v=f4fB9Xg2JEY">Brian Design.</a></li>
 </ul>
 
 
