@@ -304,31 +304,27 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Accessablility
 
 <details><summary>Home</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/404cssvalid.jpg">
 </details>
 
 <details><summary>Games</summary>
-<img src="docs/validation/gameshtmlvalid.jpg">
+<img src="docs/validation/gamesaccessvalid.jpg">
 </details>
 
 <details><summary>Game Page</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/mathaccessvalid.jpg">
 </details>
 
 <details><summary>About Us</summary>
-<img src="docs/validation/abouthtmlvalid.jpg">
+<img src="docs/validation/aboutaccessvalid.jpg">
 </details>
 
 <details><summary>Conatct</summary>
-<img src="docs/validation/contacthtmlvalid.jpg">
+<img src="docs/validation/contactaccessvalid.jpg">
 </details>
 
 <details><summary>Login</summary>
-<img src="docs/validation/loginhtmlvalid.jpg">
-</details>
-
-<details><summary>404 page</summary>
-<img src="docs/validation/404htmlvalid.jpg">
+<img src="docs/validation/loginaccessvalid.jpg">
 </details>
 
 ### Performance
