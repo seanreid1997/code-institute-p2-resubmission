@@ -210,7 +210,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </ul>
 
 <details><summary>Screenshots</summary>
-<img src="docs/features/feat404.jpg">
+<img src="docs/features/featfooter.jpg">
 </details>
 
 ### 404 Page
@@ -399,7 +399,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Responsive design | view device on different scren size | Site should adjust design based on screen size | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/responsestorytest.jpg"></details>
 
 4. I want to be able to leave feedback/contact.
 
@@ -417,7 +417,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Social Media | User clicks on social media links | User is redirected to official site of social media | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/socialstorytest.jpg"></details>
 
 6. I want the website to be fully functional.
 
@@ -444,7 +444,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Progress bar | Play game | User should be updated on how many questions left | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/trackstorytest.jpg"></details>
 
 9. I want users to be able to provide feedback on their experience.
 
@@ -470,7 +470,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Responsivity | View site on different screen sizes | Site should alter display depending on screen size | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/responsestorytest.jpg"></details>
 
 12. I want users to be able to return to home without using browser back button.
 
