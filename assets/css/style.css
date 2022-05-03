@@ -180,7 +180,7 @@ img {
     margin: 2%;
     border: 1px;
     border-radius: 4px;
-    padding: 1%;
+    padding: 2%;
 }
 
 .incorrect {
@@ -189,7 +189,7 @@ img {
     margin: 2%;
     border: 1px;
     border-radius: 4px;
-    padding: 1%;
+    padding: 2%;
 }
 
 /*Styling for footer including link to contact page and return to top button*/

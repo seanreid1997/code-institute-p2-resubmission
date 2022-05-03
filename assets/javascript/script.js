@@ -82,7 +82,6 @@ const questions = [{
 /**
  * Give variables values from maths.html
  */
-const container = document.querySelector('.container');
 const question = document.querySelector('#question');
 const choices = Array.from(document.querySelectorAll('.ans-btn'));
 const progressText = document.querySelector('#progressText');
@@ -142,14 +141,21 @@ choices.forEach(choice => {
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         if(classToApply === 'correct') {
+            selectedChoice.classList.remove('ans-btn')
+            selectedChoice.parentElement.classList.add(classToApply);
             incrementScore(points);
+        }
+
+        if(classToApply === 'incorrect') {
+            selectedChoice.classList.remove('ans-btn')
+            selectedChoice.parentElement.classList.add(classToApply);
         }
         
         
-        selectedChoice.parentElement.classList.add(classToApply);
 
         setTimeout(() => {
             selectedChoice.parentElement.classList.remove(classToApply);
+            selectedChoice.classList.add('ans-btn')
             newQuestion();
 
         }, 1000);
@@ -163,3 +169,4 @@ function incrementScore(num) {
     score +=num;
     scoreText.innerText = score;
 }
+startGame();
