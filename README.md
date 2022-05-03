@@ -16,10 +16,9 @@
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Color](#color)
-    3. [Fonts](#fonts)
-    4. [Structure](#structure)
-    5. [Wireframes](#wireframes)
+    2. [Fonts](#fonts)
+    3. [Structure](#structure)
+    4. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks and Tools](#frameworks-and-tools)
@@ -103,7 +102,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>Summary Page</summary>
-<img src="docs/validation/summarywireframe.jpg">
+<img src="docs/wireframes/summarywireframe.jpg">
 </details>
 
 <details><summary>About</summary>
@@ -187,7 +186,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </ul>
 
 <details><summary>Screenshots</summary>
-<img src="docs/features/featsumary.jpg">
+<img src="docs/features/featsummary.jpg">
 </details>
 
 ### About Us Page
@@ -542,7 +541,7 @@ The site was deployed to GitHub Pages via the following steps:
 
 <ul>
 <li>Code for login was based off of the source code from <a href="https://codepen.io/Mansoor-amin/pen/RNqrJV">Codepen</a></li>
-<li></li>
+<li>Code for project was based on my previous project <a href="https://github.com/seanreid1997/code-institute-p2">Project 2</a></li>
 </ul>
 
 
