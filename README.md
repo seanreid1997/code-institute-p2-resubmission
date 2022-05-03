@@ -144,8 +144,11 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Home Page
 
 <ul>
-<li>On the home page you can try a demo game.</li>
+<li>The home page has a basic design.</li>
 </ul>
+<details><summary>Screenshots</summary>
+<img src="docs/features/feathome.jpg">
+</details>
 
 ### Login Page
 
@@ -239,7 +242,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### HTML
 <details><summary>Home</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/homehtmlvalid.jpg">
 </details>
 
 <details><summary>Games</summary>
@@ -273,7 +276,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### CSS
 
 <details><summary>Home</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/homecssvalid.jpg">
 </details>
 
 <details><summary>Games</summary>
@@ -306,10 +309,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### Javascript
 
-<details><summary>Home</summary>
-<img src="docs/.jpg">
-</details>
-
 <details><summary>Game Page</summary>
 <img src="docs/validation/mathjsvalid.jpg">
 </details>
@@ -329,7 +328,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Accessablility
 
 <details><summary>Home</summary>
-<img src="docs/validation/404cssvalid.jpg">
+<img src="docs/validation/homeaccessvalid.jpg">
 </details>
 
 <details><summary>Games</summary>
@@ -354,36 +353,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 <details><summary>Login</summary>
 <img src="docs/validation/loginaccessvalid.jpg">
-</details>
-
-### Performance
-
-<details><summary>Home</summary>
-<img src="docs/.jpg">
-</details>
-
-<details><summary>Games</summary>
-<img src="docs/validation/gameshtmlvalid.jpg">
-</details>
-
-<details><summary>Game Page</summary>
-<img src="docs/.jpg">
-</details>
-
-<details><summary>About Us</summary>
-<img src="docs/validation/abouthtmlvalid.jpg">
-</details>
-
-<details><summary>Conatct</summary>
-<img src="docs/validation/contacthtmlvalid.jpg">
-</details>
-
-<details><summary>Login</summary>
-<img src="docs/validation/loginhtmlvalid.jpg">
-</details>
-
-<details><summary>404 page</summary>
-<img src="docs/validation/404htmlvalid.jpg">
 </details>
 
 ### Device Testing
