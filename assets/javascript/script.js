@@ -88,7 +88,6 @@ const choices = Array.from(document.querySelectorAll('.ans-btn'));
 const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
 const progressBarFull = document.querySelector('#progressBarFull');
-const start = document.querySelector('#start');
 
 let currentQuestion = {};
 let answers = true;
@@ -98,14 +97,10 @@ let mathQuestions = [];
 let points = 10;
 let maxQuestions = 10;
 
-start.addEventListener('click', startGame());
-
 /**
  * Starts the game
  */
 function startGame(){
-    start.classList.add('hidden');
-    container.classList.remove('hidden');
     questionCounter = 0;
     score = 0;
     mathQuestions = questions;

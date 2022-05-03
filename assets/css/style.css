@@ -192,10 +192,6 @@ img {
     padding: 1%;
 }
 
-.hide {
-    display: none;
-}
-
 /*Styling for footer including link to contact page and return to top button*/
 
 footer {
@@ -211,6 +207,7 @@ footer ul {
 footer ul li {
     flex-direction: row;
     padding: 1% 2%;
+    list-style-type: none;
 }
 
 footer ul li a {
@@ -476,6 +473,7 @@ footer ul {
 footer ul li {
     flex-direction: row;
     padding: 1% 2%;
+    text-decoration: none;
 }
 
 footer ul li a {

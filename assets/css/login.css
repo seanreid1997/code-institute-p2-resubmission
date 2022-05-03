@@ -1,5 +1,5 @@
 #login-container {
-    width: 30%;
+    width: 70%;
     margin: 8% auto;
 }
 .tabs {
@@ -36,9 +36,10 @@
 
 input{
     display: block;
-    width: 90%;
-    margin: 10% 0 10% 35%;
-    padding: 10px;
+    float: left;
+    width: 70%;
+    margin: 10% 35% 5% 5%;
+    padding: 1% 20% 1% 1%;
     font-size: 1.3em;
     color: rgba(43, 43, 43, 0.82);
     border-radius: 10px;
