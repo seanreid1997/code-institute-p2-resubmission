@@ -180,6 +180,17 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/features/featgame.jpg">
 </details>
 
+### Summary Page
+
+<ul>
+<li>After all questions have been answered you'll be redirected to the summary page.</li>
+<li>Here you'll see your score and receive options on whether to play again or return home.</li>
+</ul>
+
+<details><summary>Screenshots</summary>
+<img src="docs/features/featsumary.jpg">
+</details>
+
 ### About Us Page
 
 <ul>
@@ -271,6 +282,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/validation/mathcssvalid.jpg">
 </details>
 
+<details><summary>Summary Page</summary>
+<img src="docs/validation/summarycssvalid.jpg">
+</details>
+
 <details><summary>About Us</summary>
 <img src="docs/validation/aboutcssvalid.jpg">
 </details>
@@ -297,6 +312,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/validation/mathjsvalid.jpg">
 </details>
 
+<details><summary>Summary Page</summary>
+<img src="docs/validation/mathcssvalid.jpg">
+</details>
+
 <details><summary>Conatct</summary>
 <img src="docs/validation/contactjsvalid.jpg">
 </details>
@@ -317,6 +336,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 <details><summary>Game Page</summary>
 <img src="docs/validation/mathaccessvalid.jpg">
+</details>
+
+<details><summary>Summary Page</summary>
+<img src="docs/validation/summaryaccessvalid.jpg">
 </details>
 
 <details><summary>About Us</summary>
