@@ -216,7 +216,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 ### 404 Page
 
-
+<ul>
+<li>When the user enters the wrong url they'll be redirected to the 404 page.</li>
+<li>The 404 page consists of a error message and a return home button.</li>
+</ul>
 <details><summary>Screenshots</summary>
 <img src="docs/features/feat404.jpg">
 </details>
