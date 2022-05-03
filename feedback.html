@@ -34,10 +34,10 @@
     <div id="container" class="w3-container w3-center w3-animate-right">
         <form onsubmit="sendToEmail(); reset();">
             <h1>Contact Us:</h1>
-            <input type="text" name="fullname" id="fullname" placeholder="Name" required>
-            <input type="email" name="email" id="email" placeholder="Email" required>
-            <input type="text" name="phone" id="phone" placeholder="Phone Number" required>
-            <textarea name="feedback" id="feedback" rows="6" placeholder="Write here..."></textarea>
+            <input type="text" name="fullname" id="fullname" placeholder="Name" required aria-label="Name">
+            <input type="email" name="email" id="email" placeholder="Email" required aria-label="Email">
+            <input type="text" name="phone" id="phone" placeholder="Phone Number" required aria-label="Phone">
+            <textarea name="feedback" id="feedback" rows="6" placeholder="Write here..." aria-label="Name"></textarea>
             <button id="submit" type="submit" class="btn">Submit</button>
         </form>
     </div>
