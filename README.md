@@ -82,16 +82,11 @@
 
 ### Design Choices
 
-
-### Color
-
-
 ### Fonts
 
 The font style I used for this project was 'Poppins', which I accsessed via Google Fonts.
 
 ### Structure
-
 
 ### Wireframes
 
@@ -105,6 +100,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 <details><summary>Main Game</summary>
 <img src="docs/wireframes/gamewireframe.jpg">
+</details>
+
+<details><summary>Summary Page</summary>
+<img src="docs/validation/summarywireframe.jpg">
 </details>
 
 <details><summary>About</summary>
@@ -252,6 +251,10 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/validation/mathhtmlvalid.jpg">
 </details>
 
+<details><summary>Summary Page</summary>
+<img src="docs/validation/summaryhtmlvalid.jpg">
+</details>
+
 <details><summary>About Us</summary>
 <img src="docs/validation/abouthtmlvalid.jpg">
 </details>
@@ -313,7 +316,7 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </details>
 
 <details><summary>Summary Page</summary>
-<img src="docs/validation/mathcssvalid.jpg">
+<img src="docs/validation/summaryjsvalid.jpg">
 </details>
 
 <details><summary>Conatct</summary>
