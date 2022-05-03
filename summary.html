@@ -31,14 +31,15 @@
     
     <!--Main html for game-->
     <div class="container">
-        <div class="summary">
+        <div id="summary">
             <h2>Your score:
-                <div><h1 id="finalScore">0</h1></div>
+                <div>
+                    <h1 id="finalScore">0</h1>
+                </div>
             </h2>
-            <div>
-                <a href="math.html" class="btn return">Play Again</a><br>
-                <a href="index.html" class="btn return">Home</a>
-            </div>
+
+            <a href="math.html" class="summary-btn btn">Play Again</a><br>
+            <a href="index.html" class="summary-btn btn">Home</a>
         </div>
     </div>
 
@@ -59,5 +60,6 @@
     <!--Script sources for project-->
     <script src="https://kit.fontawesome.com/d15acb58b5.js" crossorigin="anonymous"></script>
     <script src="assets/javascript/script.js"></script>
+    <script src="assets/javascript/summary.js"></script>
 </body>
 </html>

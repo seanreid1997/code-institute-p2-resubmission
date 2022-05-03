@@ -1,2 +1,2 @@
-const mostRecentScore = localStorage.getItem('mostRecentScore')
-finalScore.innerText = mostRecentScore
+const mostRecentScore = localStorage.getItem('mostRecentScore');
+finalScore.innerText = mostRecentScore;

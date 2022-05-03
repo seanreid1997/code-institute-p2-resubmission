@@ -97,22 +97,6 @@ img {
 
 /*Styling for main game including questions and score counter*/
 
-#start {
-    font-size: 700%;
-    border-radius: 25px;
-    background-color: black;
-    color: #fff;
-    margin: 30% 20% 40% 30% ;
-    text-align: center;
-}
-
-#start:hover {
-    cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(90, 90, 90, 0.6);
-    transition: transform 150ms;
-    transform: scale(1.01);
-}
-
 .container {
     height: 100%;
     background-color: #fff;
@@ -166,7 +150,6 @@ img {
     transform: scale(1.01);
 }
 
-
 .btn:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(90, 90, 90, 0.6);
@@ -175,7 +158,7 @@ img {
 }
 
 .correct {
-    background-color: rgb(132, 246, 132);
+    background-color: rgb(56, 219, 56);
     color: rgb(26, 26, 26);
     margin: 2%;
     border: 1px;
@@ -190,6 +173,21 @@ img {
     border: 1px;
     border-radius: 4px;
     padding: 2%;
+}
+
+#summary {
+    display: block;
+    text-align: center;
+}
+
+.summary-btn {
+    text-decoration: none;
+    width: 30%;
+    height: 35px;
+    border-radius: 15px;
+    background-color: black;
+    color: #fff;
+    font-size: 40px;
 }
 
 /*Styling for footer including link to contact page and return to top button*/
@@ -347,22 +345,6 @@ img {
 
 /*Styling for main game including questions and score counter*/
 
-#start {
-    font-size: 700%;
-    border-radius: 25px;
-    background-color: black;
-    color: #fff;
-    margin: 30% 20% 40% 30% ;
-    text-align: center;
-}
-
-#start:hover {
-    cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(90, 90, 90, 0.6);
-    transition: transform 150ms;
-    transform: scale(1.01);
-}
-
 .container {
     height: 100%;
     background-color: #fff;
@@ -452,10 +434,26 @@ img {
 }
 
 .correct {
-    background-color: rgb(132, 246, 132);
+    background-color: rgb(55, 216, 55);
 }
 .incorrect {
     background-color: red;
+}
+
+#summary {
+    display: block;
+    text-align: center;
+    margin: 40% auto;
+}
+
+.summary-btn {
+    text-decoration: none;
+    width: 30%;
+    height: 35px;
+    border-radius: 15px;
+    background-color: black;
+    color: #fff;
+    font-size: 40px;
 }
 
 /*Styling for footer including link to contact page and return to top button*/
