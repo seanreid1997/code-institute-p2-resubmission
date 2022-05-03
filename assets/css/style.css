@@ -42,6 +42,10 @@ body {
     border-spacing: 5px;
 }
 
+#example {
+    font-size: 40px;
+}
+
 #login-link {
     color: #fff;
     float: right;
@@ -349,7 +353,7 @@ img {
     height: 100%;
     background-color: #fff;
     width: 70%;
-    margin: 40% auto;
+    margin: 50% auto;
     box-shadow: 5px 5px 5px 5px #4b4b4b;
     padding-bottom: 5%;
     border-radius: 10px;

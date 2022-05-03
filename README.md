@@ -507,11 +507,12 @@ The website was tested on the browsers listed below:
 
 ## Bugs
 
+### Unfixed Bugs
 
-| **Bugs** | **Fixes** |
-| -------- | --------- |
-| | |
-
+<ul>
+<li>Map logs an error to the console.</li>
+<li>Summary page logs an error to the console but works as it should.</li>
+</ul>
 
 ## Deployment
 
