@@ -408,7 +408,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | I want the site to be easily navigatable. | Browse through site | Site should be easy to navigate | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/navstorytest.jpg"></details>
 
 2. I want to be able view the website on various browsers.
 
@@ -453,7 +453,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Functionality | Navigate site | No errors while navigating site | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/storytest/linksstorytest.jpg"></details>
 
 7. I want the website to be browser compatible.
 
