@@ -358,31 +358,35 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 ### Performance
 
 <details><summary>Home</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/homeperformvalid.jpg">
 </details>
 
 <details><summary>Games</summary>
-<img src="docs/validation/gameshtmlvalid.jpg">
+<img src="docs/validation/gamesperformvalid.jpg">
 </details>
 
 <details><summary>Game Page</summary>
-<img src="docs/.jpg">
+<img src="docs/validation/mathperformvalid.jpg">
+</details>
+
+<details><summary>Summary Page</summary>
+<img src="docs/validation/summaryperformvalid.jpg">
 </details>
 
 <details><summary>About Us</summary>
-<img src="docs/validation/abouthtmlvalid.jpg">
+<img src="docs/validation/aboutperformvalid.jpg">
 </details>
 
 <details><summary>Conatct</summary>
-<img src="docs/validation/contacthtmlvalid.jpg">
+<img src="docs/validation/contactperformvalid.jpg">
 </details>
 
 <details><summary>Login</summary>
-<img src="docs/validation/loginhtmlvalid.jpg">
+<img src="docs/validation/loginperformvalid.jpg">
 </details>
 
 <details><summary>404 page</summary>
-<img src="docs/validation/404htmlvalid.jpg">
+<img src="docs/validation/404performvalid.jpg">
 </details>
 
 ### Device Testing
