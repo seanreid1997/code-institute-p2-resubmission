@@ -497,14 +497,11 @@ The site was deployed to GitHub Pages via the following steps:
 <li>The main structure of the javascript was from a youtube tutorial made on the Brian Design channel. <a href="https://www.youtube.com/watch?v=f4fB9Xg2JEY">Brian Design.</a></li>
 </ul>
 
-
 ### Content
 
 <ul>
-<li>Code for login was based off of the source code from <a href="https://codepen.io/Mansoor-amin/pen/RNqrJV">Codepen</a></li>
 <li>Code for project was based on my previous project <a href="https://github.com/seanreid1997/code-institute-p2">Project 2</a></li>
 </ul>
-
 
  ### Media 
  
