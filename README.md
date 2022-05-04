@@ -73,9 +73,8 @@
 7. I want the website to be browser compatible.
 8. I want users to be able to track their progress.
 9. I want users to be able to provide feedback on their experience.
-10. I want users to be able to login/register.
-11. I want the website to be responsive.
-12. I want users to be able to return to home without using browser back button.
+10. I want the website to be responsive.
+11. I want users to be able to return to home without using browser back button.
 
 ## Design
 
@@ -107,10 +106,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 <details><summary>About</summary>
 <img src="docs/wireframes/aboutwireframe.jpg">
-</details>
-
-<details><summary>Login</summary>
-<img src="docs/wireframes/loginwireframe.jpg">
 </details>
 
 <details><summary>Contact</summary>
@@ -148,16 +143,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 </ul>
 <details><summary>Screenshots</summary>
 <img src="docs/features/feathome.jpg">
-</details>
-
-### Login Page
-
-<ul>
-<li>This website has a page where you can register and/or login</li>
-</ul>
-
-<details><summary>Screenshots</summary>
-<img src="docs/features/featlogin.jpg">
 </details>
 
 ### Games Selection Page
@@ -265,10 +250,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/validation/contacthtmlvalid.jpg">
 </details>
 
-<details><summary>Login</summary>
-<img src="docs/validation/loginhtmlvalid.jpg">
-</details>
-
 <details><summary>404 page</summary>
 <img src="docs/validation/404htmlvalid.jpg">
 </details>
@@ -299,10 +280,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/validation/contactcssvalid.jpg">
 </details>
 
-<details><summary>Login</summary>
-<img src="docs/validation/logincssvalid.jpg">
-</details>
-
 <details><summary>404 page</summary>
 <img src="docs/validation/404cssvalid.jpg">
 </details>
@@ -319,10 +296,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 <details><summary>Conatct</summary>
 <img src="docs/validation/contactjsvalid.jpg">
-</details>
-
-<details><summary>Login</summary>
-<img src="docs/validation/loginjsvalid.jpg">
 </details>
 
 ### Accessablility
@@ -351,10 +324,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 <img src="docs/validation/contactaccessvalid.jpg">
 </details>
 
-<details><summary>Login</summary>
-<img src="docs/validation/loginaccessvalid.jpg">
-</details>
-
 ### Performance
 
 <details><summary>Home</summary>
@@ -379,10 +348,6 @@ The font style I used for this project was 'Poppins', which I accsessed via Goog
 
 <details><summary>Conatct</summary>
 <img src="docs/validation/contactperformvalid.jpg">
-</details>
-
-<details><summary>Login</summary>
-<img src="docs/validation/loginperformvalid.jpg">
 </details>
 
 <details><summary>404 page</summary>
@@ -484,15 +449,7 @@ The website was tested on the browsers listed below:
 <img src="docs/storytest/contactstorytest2.jpg">
 </details>
 
-10.  I want users to be able to login/register.
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Registration | User selects login icon | User should be redirected to registration page | Works as expected |
-<details><summary>Screenshots</summary>
-<img src="docs/storytest/loginstorytest.jpg"></details>
-
-11. I want the website to be responsive.
+10. I want the website to be responsive.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -500,7 +457,7 @@ The website was tested on the browsers listed below:
 <details><summary>Screenshots</summary>
 <img src="docs/storytest/responsestorytest.jpg"></details>
 
-12. I want users to be able to return to home without using browser back button.
+11. I want users to be able to return to home without using browser back button.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
